@@ -11,7 +11,7 @@ Konkret umfasst das Projekt folgende Teile:
 Ein Schaltplan, sowie ein Bild vom Versuchsaufbau ist im Dokument ![aufbau.pdf](aufbau.pdf) zu finden.
 
 ## Demo Video
-[![Video zur Demonstration](https://img.youtube.com/vi/Bq1tRMwmxJQ/0.jpg)](https://www.youtube.com/watch?v=Bq1tRMwmxJQ)
+[![Video zur Demonstration](https://i.ytimg.com/vi_webp/Bq1tRMwmxJQ/maxresdefault.webp)](https://www.youtube.com/watch?v=Bq1tRMwmxJQ)
 
 Ressourcen, Quellen und Startpunkte:
 - Dokumentation zu Linux-Kernel-API für SPI: https://www.kernel.org/doc/html/v4.15/driver-api/spi.html
